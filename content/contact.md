@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-draft: false
+draft: true
 menu:
   main:
     weight: 90
