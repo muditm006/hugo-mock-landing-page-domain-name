@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>myIsa: my Intelligent Study Assistant</title>
+    <link>https://muditm006.github.io/hugo-mock-landing-page/</link>
+    <description>Recent content on myIsa: my Intelligent Study Assistant</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>Mudit Marwaha | Class of 2027</copyright>
+    <lastBuildDate>Fri, 07 Feb 2025 11:50:33 -0500</lastBuildDate>
+    <atom:link href="https://muditm006.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI-Powered Quizzes with myISA</title>
+      <link>https://muditm006.github.io/hugo-mock-landing-page/post/quizzespost/</link>
+      <pubDate>Wed, 05 Feb 2025 09:00:00 -0500</pubDate>
+      <guid>https://muditm006.github.io/hugo-mock-landing-page/post/quizzespost/</guid>
+      <description>&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://muditm006.github.io/hugo-mock-landing-page/post/quizzespost/Quizzes.png&#34;&#xA;    alt=&#34;AI Quizzes&#34; width=&#34;600px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reinforce your learning with AI-powered quizzes!&lt;/strong&gt;&lt;br&gt;&#xA;myISA now generates personalized quizzes tailored to your learning goals and progress. These AI-driven questions help students strengthen their understanding of key topics and prepare effectively for exams.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;With this feature, students can:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Receive quizzes customized to their current study progress.&lt;/li&gt;&#xA;&lt;li&gt;Focus on areas where they need the most improvement.&lt;/li&gt;&#xA;&lt;li&gt;Practice with AI-generated questions designed for better retention.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Stay on track and ace your exams with myISA&amp;rsquo;s intelligent quiz system!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://muditm006.github.io/hugo-mock-landing-page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://muditm006.github.io/hugo-mock-landing-page/about/</guid>
+      <description>&lt;h1 id=&#34;about-us&#34;&gt;About Us&lt;/h1&gt;&#xA;&lt;p&gt;Made with ❤️ by the &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt; &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;team&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://muditm006.github.io/hugo-mock-landing-page/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://muditm006.github.io/hugo-mock-landing-page/code-of-conduct/</guid>
+      <description>&lt;h1 id=&#34;contributor-covenant-code-of-conduct&#34;&gt;Contributor Covenant Code of Conduct&lt;/h1&gt;&#xA;&lt;h2 id=&#34;our-pledge&#34;&gt;Our Pledge&lt;/h2&gt;&#xA;&lt;p&gt;We as members, contributors, and leaders pledge to make participation in our&#xA;community a harassment-free experience for everyone, regardless of age, body&#xA;size, visible or invisible disability, ethnicity, sex characteristics, gender&#xA;identity and expression, level of experience, education, socio-economic status,&#xA;nationality, personal appearance, race, caste, color, religion, or sexual&#xA;identity and orientation.&lt;/p&gt;&#xA;&lt;p&gt;We pledge to act and interact in ways that contribute to an open, welcoming,&#xA;diverse, inclusive, and healthy community.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://muditm006.github.io/hugo-mock-landing-page/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://muditm006.github.io/hugo-mock-landing-page/privacy-policy/</guid>
+      <description>&lt;h1 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt;: We do not use cookies and we do not collect any personal data.&lt;/p&gt;&#xA;&lt;h2 id=&#34;website-visitors&#34;&gt;Website visitors&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No personal information is collected.&lt;/li&gt;&#xA;&lt;li&gt;No information is stored in the browser.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with, sent to or sold to third-parties.&lt;/li&gt;&#xA;&lt;li&gt;No information is shared with advertising companies.&lt;/li&gt;&#xA;&lt;li&gt;No information is mined and harvested for personal and behavioral trends.&lt;/li&gt;&#xA;&lt;li&gt;No information is monetized.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;information-we-collect-and-what-we-use-it-for&#34;&gt;Information we collect and what we use it for&lt;/h2&gt;&#xA;&lt;p&gt;The server hosting this site can collect the following information:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>https://muditm006.github.io/hugo-mock-landing-page/about.pt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://muditm006.github.io/hugo-mock-landing-page/about.pt/</guid>
+      <description>&lt;h1 id=&#34;sobre-nós&#34;&gt;Sobre nós&lt;/h1&gt;&#xA;&lt;p&gt;Feito com ❤️ pela &lt;a href=&#34;https://github.com/filipecarneiro/hugo-bootstrap-theme/graphs/contributors&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;equipa&lt;/a&gt; &lt;em&gt;Hugo Bootstrap Theme&lt;/em&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
