@@ -55,3 +55,21 @@ hugo server -D
 5. Open your browser and navigate to `http://localhost:1313`.
 
 ---
+
+## GitHub Actions Workflow: Build and Deploy Hugo Website
+
+This repository includes an integrated GitHub Actions workflow that automates the deployment process. The workflow is triggered on every push to the `main` branch and performs the following steps:
+
+1. **Check Out Source Repository**:
+- Uses `actions/checkout@v3.5.1` to fetch the repository, including submodules and full commit history.
+
+2. **Initialize Hugo Environment**:
+- Sets up Hugo using `peaceiris/actions-hugo@v2.6.0`, specifying version `0.144.1` with extended support enabled.
+
+3. **Compile Hugo Static Files**:
+- Runs Hugo with flags for draft content (`-D`), garbage collection (`--gc`), and minification (`--minify`).
+
+4. **Publish to GitHub Pages**:
+- Deploys the generated static files to the `gh-pages` branch using `peaceiris/actions-gh-pages@v3.9.3`.
+
+This automated CI/CD pipeline ensures that any changes pushed to the repository are immediately reflected on the live site hosted via GitHub Pages.
