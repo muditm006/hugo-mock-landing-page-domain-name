@@ -1,20 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Quizzes on myIsa: my Intelligent Study Assistant</title>
-    <link>https://muditm006.github.io/hugo-mock-landing-page/tags/quizzes/</link>
-    <description>Recent content in Quizzes on myIsa: my Intelligent Study Assistant</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <copyright>Mudit Marwaha | Class of 2027</copyright>
-    <lastBuildDate>Fri, 07 Feb 2025 11:50:33 -0500</lastBuildDate>
-    <atom:link href="https://muditm006.github.io/hugo-mock-landing-page/tags/quizzes/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AI-Powered Quizzes with myISA</title>
-      <link>https://muditm006.github.io/hugo-mock-landing-page/post/quizzespost/</link>
-      <pubDate>Wed, 05 Feb 2025 09:00:00 -0500</pubDate>
-      <guid>https://muditm006.github.io/hugo-mock-landing-page/post/quizzespost/</guid>
-      <description>&lt;figure class=&#34;center&#34;&gt;&lt;img src=&#34;https://muditm006.github.io/hugo-mock-landing-page/post/quizzespost/Quizzes.png&#34;&#xA;    alt=&#34;AI Quizzes&#34; width=&#34;600px&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Reinforce your learning with AI-powered quizzes!&lt;/strong&gt;&lt;br&gt;&#xA;myISA now generates personalized quizzes tailored to your learning goals and progress. These AI-driven questions help students strengthen their understanding of key topics and prepare effectively for exams.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;With this feature, students can:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Receive quizzes customized to their current study progress.&lt;/li&gt;&#xA;&lt;li&gt;Focus on areas where they need the most improvement.&lt;/li&gt;&#xA;&lt;li&gt;Practice with AI-generated questions designed for better retention.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Stay on track and ace your exams with myISA&amp;rsquo;s intelligent quiz system!&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Quizzes on myIsa: my Intelligent Study Assistant</title><link>https://muditm006.github.io/hugo-mock-landing-page-autodeployed/tags/quizzes/</link><description>Recent content in Quizzes on myIsa: my Intelligent Study Assistant</description><generator>Hugo</generator><language>en</language><copyright>Mudit Marwaha | Class of 2027</copyright><lastBuildDate>Tue, 18 Feb 2025 23:38:10 +0000</lastBuildDate><atom:link href="https://muditm006.github.io/hugo-mock-landing-page-autodeployed/tags/quizzes/index.xml" rel="self" type="application/rss+xml"/><item><title>AI-Powered Quizzes with myISA</title><link>https://muditm006.github.io/hugo-mock-landing-page-autodeployed/post/quizzespost/</link><pubDate>Wed, 05 Feb 2025 09:00:00 -0500</pubDate><guid>https://muditm006.github.io/hugo-mock-landing-page-autodeployed/post/quizzespost/</guid><description>&lt;figure class="center">&lt;img src="https://muditm006.github.io/hugo-mock-landing-page-autodeployed/post/quizzespost/Quizzes.png"
+ alt="AI Quizzes" width="600px">
+&lt;/figure>
+
+&lt;blockquote>
+&lt;p>&lt;strong>Reinforce your learning with AI-powered quizzes!&lt;/strong>&lt;br>
+myISA now generates personalized quizzes tailored to your learning goals and progress. These AI-driven questions help students strengthen their understanding of key topics and prepare effectively for exams.&lt;/p>&lt;/blockquote>
+&lt;p>With this feature, students can:&lt;/p>
+&lt;ul>
+&lt;li>Receive quizzes customized to their current study progress.&lt;/li>
+&lt;li>Focus on areas where they need the most improvement.&lt;/li>
+&lt;li>Practice with AI-generated questions designed for better retention.&lt;/li>
+&lt;/ul>
+&lt;p>Stay on track and ace your exams with myISA&amp;rsquo;s intelligent quiz system!&lt;/p></description></item></channel></rss>
